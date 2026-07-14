@@ -4,6 +4,9 @@
   "owner": {
     "name": "Bailey Wickham"
   },
+  "renames": {
+    "ibkr-options": "ibkr"
+  },
   "plugins": [
     {
       "name": "unifi-cli",
@@ -22,17 +25,17 @@
       "category": "networking"
     },
     {
-      "name": "ibkr-options",
+      "name": "ibkr",
       "source": {
         "source": "github",
-        "repo": "baileywickham/ibkr-options"
+        "repo": "baileywickham/ibkr"
       },
       "description": "Research and trade options and stocks on Interactive Brokers via a local CLI — chains, quotes, Greeks, and limit orders with a preview/confirm/execute safety protocol. Requires IB Gateway.",
       "author": {
         "name": "Bailey Wickham"
       },
-      "homepage": "https://github.com/baileywickham/ibkr-options",
-      "repository": "https://github.com/baileywickham/ibkr-options",
+      "homepage": "https://github.com/baileywickham/ibkr",
+      "repository": "https://github.com/baileywickham/ibkr",
       "license": "MIT",
       "keywords": ["ibkr", "interactive-brokers", "options", "stocks", "trading", "cli"],
       "category": "finance"
