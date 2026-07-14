@@ -20,6 +20,22 @@
       "license": "MIT",
       "keywords": ["unifi", "ubiquiti", "networking", "cli", "homelab"],
       "category": "networking"
+    },
+    {
+      "name": "ibkr-options",
+      "source": {
+        "source": "github",
+        "repo": "baileywickham/ibkr-options"
+      },
+      "description": "Research and trade options on Interactive Brokers via a local CLI — chains, quotes, Greeks, and limit orders with a preview/confirm/execute safety protocol. Requires IB Gateway.",
+      "author": {
+        "name": "Bailey Wickham"
+      },
+      "homepage": "https://github.com/baileywickham/ibkr-options",
+      "repository": "https://github.com/baileywickham/ibkr-options",
+      "license": "MIT",
+      "keywords": ["ibkr", "interactive-brokers", "options", "trading", "cli"],
+      "category": "finance"
     }
   ]
 }
