@@ -17,7 +17,7 @@ they document.
 | Plugin | What it does |
 | --- | --- |
 | [unifi-cli](https://github.com/baileywickham/unifi-cli) | Answer questions about your UniFi network — gateway, APs, connected clients — via the gateway's local Integrations API. |
-| [ibkr-options](https://github.com/baileywickham/ibkr-options) | Research and trade options on Interactive Brokers — chains, quotes, Greeks, limit orders — with a preview/confirm/execute safety protocol. |
+| [ibkr-options](https://github.com/baileywickham/ibkr-options) | Research and trade options and stocks on Interactive Brokers — chains, quotes, Greeks, limit orders — with a preview/confirm/execute safety protocol. |
 
 More coming.
 
