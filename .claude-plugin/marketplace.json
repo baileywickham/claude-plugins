@@ -9,6 +9,22 @@
   },
   "plugins": [
     {
+      "name": "anki",
+      "source": {
+        "source": "github",
+        "repo": "baileywickham/anki-decks"
+      },
+      "description": "Create and edit Anki flashcards as version-controlled YAML — pushed into live Anki via AnkiConnect, synced to your devices through AnkiWeb, with git history as the audit trail.",
+      "author": {
+        "name": "Bailey Wickham"
+      },
+      "homepage": "https://github.com/baileywickham/anki-decks",
+      "repository": "https://github.com/baileywickham/anki-decks",
+      "license": "MIT",
+      "keywords": ["anki", "flashcards", "spaced-repetition", "ankiconnect", "study"],
+      "category": "productivity"
+    },
+    {
       "name": "unifi-cli",
       "source": {
         "source": "github",

@@ -16,6 +16,7 @@ they document.
 
 | Plugin | What it does |
 | --- | --- |
+| [anki](https://github.com/baileywickham/anki-decks) | Create and edit Anki flashcards as version-controlled YAML, pushed into live Anki via AnkiConnect and synced everywhere through AnkiWeb. |
 | [unifi-cli](https://github.com/baileywickham/unifi-cli) | Answer questions about your UniFi network — gateway, APs, connected clients — via the gateway's local Integrations API. |
 | [ibkr](https://github.com/baileywickham/ibkr) | Research and trade options and stocks on Interactive Brokers — chains, quotes, Greeks, limit orders — with a preview/confirm/execute safety protocol. |
 
