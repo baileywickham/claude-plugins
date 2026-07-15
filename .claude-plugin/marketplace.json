@@ -25,6 +25,22 @@
       "category": "productivity"
     },
     {
+      "name": "geo",
+      "source": {
+        "source": "github",
+        "repo": "baileywickham/geo"
+      },
+      "description": "Answer geospatial questions from OpenStreetMap data — routing with quietest/flattest preferences, geocoding, elevation profiles, isochrones, and Overpass queries — via the geo CLI.",
+      "author": {
+        "name": "Bailey Wickham"
+      },
+      "homepage": "https://github.com/baileywickham/geo",
+      "repository": "https://github.com/baileywickham/geo",
+      "license": "MIT",
+      "keywords": ["osm", "openstreetmap", "routing", "geocoding", "maps", "cli"],
+      "category": "maps"
+    },
+    {
       "name": "unifi-cli",
       "source": {
         "source": "github",
